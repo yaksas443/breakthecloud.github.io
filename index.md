@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Red Team Adversary Emulation Course
+nav_order: 1
+description: Learn how to perform adversary emulation exercises end-to-end. 
 
-You can use the [editor on GitHub](https://github.com/yaksas443/breakthecloud.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+permalink: /
+---
+# Red Team Adversary Emulation Course
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this course, you will look at an organization's security from a real-world adversary perspective. You are hired by a FinTech startup, Tax First Labz (http://taxfirstlabz.xyz) to conduct an adversary emulation exercise and steal their customer data (before an actual adversary). This exercise will assume zero knowledge about the target network. 
 
-### Markdown
+During this adversary emulation exercise you mimic a real world cyber attack with a specific objective, stealing Tax Fist Labz customer data. You will follow the Red Team Operations Attack Lifecycle to conduct this exercise. You will go through each phase in a step-by-step manner and build our attack path as you move ahead. You will employee a variety of techniques, such as
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - Active and passive information gathering
+    - Weaponizing an exploit
+    - Internal reconnaissance
+    - Brute-forcing via custom username and password lists
+    - Spear phishing a senior employee
+    - Privilege Escalation (Linux and Windows)
+    - Automated Active Directory domain enumeration
+    - Persistence via command and control center
+    - Active Directory attacks
 
-```markdown
-Syntax highlighted code block
+to achieve your objective. Upon completion of the exercise, you will prepare and submit a report to the organization's management.
 
-# Header 1
-## Header 2
-### Header 3
+Through this course you will learn how to use tools such as, PoshC2, Mentalist, BloodHound, Mimikatz, Metasploit, PowerUp, icacls, PowerShell etc. 
 
-- Bulleted
-- List
+This is a beginner friendly course. If you have just started your career in offensive cybersecurity or are preparing for penetration testing exams (OSCP, eJPT, eCPT, eCPTx, CRTP etc.) then this course is for you. If you are already a penetration tester or a red teamer, you will enjoy following a live adversary emulation exercise from scope creation to reporting. 
 
-1. Numbered
-2. List
+## Course introduction 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAonnM-AkQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## What you'll learn
 
-### Jekyll Themes
+    - How to plan and manage adversary emulation exercise
+    - Difference between red teaming and adversary emulation
+    - MITRE ATT&CK Framework
+    - Red team operations attack lifecycle
+    - How to conduct adversary emulation exercise on a real-world organization
+    - Open Source Intelligence (OSINT) techniques to gather information
+    - Weaponizing exploits to gain foothold into the network
+    - Password brute-forcing using custom username and password lists
+    - Spear phishing a senior employee
+    - Escalating Privileges on Linux and Windows systems
+    - Active Directory enumeration using BloodHound
+    - Active Directory attacks
+    - Establishing persistence via PoshC2 (command and control center software)
+    - Creating an engagement report
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaksas443/breakthecloud.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Requirements
 
-### Support or Contact
+    - Basic knowledge of Kali Linux
+    - Basic knowledge of PowerShell
+    - Basic understanding of penetration testing and red teaming
+    - Curious mind
+    
+## Who this course is for
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    - OSCP, eCPPT, eCPTX, CRTE aspirants
+    - Penetration testers, red teamers, offensive cyber security professionals
+    - Professionals seeking a deeper understanding of real-world cyber attacks
+    - Executives seeking to understand how an organization can be breached
+
+[Enroll in the course](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE){: .btn .btn-purple }
