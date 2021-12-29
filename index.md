@@ -49,6 +49,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 ### Azure
 - [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Exploiting PHS
 - [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
+- [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
 
 ## Tools
 
