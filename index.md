@@ -12,6 +12,12 @@ Welcome to Break The Cloud.
 
 Here you will find resources (books, articles, tools, commands, attacks, defenses etc.) to protect cloud environments. This website is a work in progress so keep checking in every now and then. To contribute please send a direct message via twitter to [@yaksas443](https://twitter.com/yaksas443) 
 
+## Cloud Security Standards and Frameworks
+- [CSA Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+- [OWASP Cloud Top 10 2017](https://web.archive.org/web/20170903023808/https://www.owasp.org/index.php/Category:OWASP_Cloud_%E2%80%90_10_Project)
+- [OWASP Cloud Native Security Top 10](https://owasp.org/www-project-cloud-native-application-security-top-10/)
+- [ISO/IEC 27017:2015](https://infostore.saiglobal.com/en-au/Standards/ISO-IEC-27017-2015-605835_SAIG_ISO_ISO_1388396/)
+
 ## Books
 
 ### General cloud security
