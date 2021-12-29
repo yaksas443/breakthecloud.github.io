@@ -39,6 +39,11 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Hands-On AWS Penetration Testing with Kali Linux by Karl Gilbert, Benjamin Caudill](https://www.oreilly.com/library/view/hands-on-aws-penetration/9781789136722/)
 - [AWS Penetration Testing by Jonathan Helmus](https://www.packtpub.com/product/aws-penetration-testing/9781839216923)
 
+## Trainings
+
+### Azure
+- [Introduction to Azure Penetration Testing](https://azure.enterprisesecurity.io/) - Free (Registration required)
+
 ## Tools
 
 ### Multi-cloud
