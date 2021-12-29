@@ -10,7 +10,7 @@ permalink: /
 
 Welcome to Break The Cloud.
 
-Here you will find resources (books, articles, tools, commands, attacks, defenses etc.) to protect cloud environments. This website is a work in progress so keep checking in every now and then.  
+Here you will find resources (books, articles, tools, commands, attacks, defenses etc.) to protect cloud environments. This website is a work in progress so keep checking in every now and then. To contribute please send a direct message via twitter to [@yaksas443](https://twitter.com/yaksas443) 
 
 ## Books
 
