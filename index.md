@@ -20,6 +20,8 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Enterprise Cloud Security and Governance by Zeal Vora](https://www.packtpub.com/product/enterprise-cloud-security-and-governance/9781788299558)
 - [Cloud Native Security by Chris Binnie, Rory McCune](https://www.oreilly.com/library/view/cloud-native-security/9781119782230/)
 - [Cloud Security Automation by Prashant Priyam](https://www.packtpub.com/product/cloud-security-automation/9781788627863)
+- [CCSP Certified Cloud Security Professional All-in-One Exam Guide by Daniel Carter](https://www.oreilly.com/library/view/ccsp-certified-cloud/9781260456936/)
+- [CCSK Certificate of Cloud Security Knowledge All-in-One Exam Guide by Graham Thompson ](https://www.oreilly.com/library/view/ccsk-certificate-of/9781260460094/)
 
 ### Azure security
 
