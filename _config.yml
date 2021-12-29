@@ -66,8 +66,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Enroll in the course (LAUNCH SALE)":
-    - "https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE"
+  "Join #breakthecloud on Discord":
+    - "https://discord.gg/Yg78ZVJCWP"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -83,7 +83,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Course created by <a href=\"https://courses.yaksas.in\">Yaksas CSC</a>."
+footer_content: "Website maintained by <a href=\"https://yaksas.in\">Yaksas CSC</a>."
 
 # Footer last edited timestamp
 #last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
