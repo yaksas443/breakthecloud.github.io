@@ -16,6 +16,7 @@ permalink: /notes-azure
 
 ## Attacks
 - An indirect way to compromise Azure VMs is to download the VHD and analyse the disk for stored credentials. This assumes that you have access to the storage account key linked with the VM and VHD is not encrypted.
+- When using Pass-through-Authentication mechanism of Azure AD Connect, user credentials are sent in plain-text to the on-prem AD. If an attacker compromises the server running AD Connect, they can extract the plain-text credentials by hooking up the service.
 
 ## Lateral Movement
 - A VM hosting a service that connects to an on-premise server, such as a cloud hosted website talking to an on-premise SQL server, can be used to move laterally from cloud to on-prem.
