@@ -44,6 +44,12 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 ### Azure
 - [Introduction to Azure Penetration Testing](https://azure.enterprisesecurity.io/) - Free (Registration required)
 
+## Articles
+
+### Azure
+- [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Exploiting PHS
+- [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
+
 ## Tools
 
 ### Multi-cloud
