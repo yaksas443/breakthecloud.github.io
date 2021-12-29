@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Break The Cloud by Yaksas CSC
+title: Break The Cloud
 nav_order: 1
 description: Resources to attack and defend cloud environments. 
 
