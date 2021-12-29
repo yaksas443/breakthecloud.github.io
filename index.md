@@ -35,10 +35,23 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 
 ## Tools
 
+### Multi-cloud
+
+#### Information Gathering
+- [CloudBrute](https://github.com/0xsha/CloudBrute)
+- [cloud_enum](https://github.com/initstring/cloud_enum)
+
 ### Azure
 
 #### Information Gathering
 - [o365Creeper](https://github.com/LMGsec/o365creeper)
+- [Blob Hunter](https://github.com/cyberark/blobhunter)
+- [Get-MsolRolesAndMembers.ps1](https://gist.github.com/ciphertxt/2036e614edf4bf920796059017fbbc3d)
+- [AzureHound](https://bloodhound.readthedocs.io/en/latest/data-collection/azurehound.html)
+- [o365Recon](https://github.com/nyxgeek/o365recon)
+- [CrowdStrike Reporting Tool for Azure](https://github.com/CrowdStrike/CRT)
+- [MFASweep](https://github.com/dafthack/MFASweep)
+- [Storm Spotter](https://github.com/Azure/Stormspotter)
 
 #### Enumeration and Exploitation
 - [Azure PowerShell Module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-7.0.0)
@@ -51,3 +64,6 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 #### Credential Attacks
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray)
 - [o365Spray](https://github.com/0xZDH/o365spray)
+
+## Other Resources
+- [Awesome Azure Penetration Testing](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest#lists-and-cheat-sheets)
