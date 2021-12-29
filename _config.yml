@@ -14,7 +14,7 @@ remote_theme: pmarsceill/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Break The Cloud
+title: Break The Cloud by Yaksas CSC
 tagline: Resources (books, articles, tools, commands, attacks, defenses etc.) to protect cloud environments
 summary: Resources (books, articles, tools, commands, attacks, defenses etc.) to protect cloud environments
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
