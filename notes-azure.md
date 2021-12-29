@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notes
+title: Notes - Azure
 nav_order: 2
 description: Notes from my research in cloud security  
 
