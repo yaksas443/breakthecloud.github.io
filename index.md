@@ -33,3 +33,15 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Hands-On AWS Penetration Testing with Kali Linux by Karl Gilbert, Benjamin Caudill](https://www.oreilly.com/library/view/hands-on-aws-penetration/9781789136722/)
 - [AWS Penetration Testing by Jonathan Helmus](https://www.packtpub.com/product/aws-penetration-testing/9781839216923)
 
+## Tools
+
+### Azure
+- [Azure PowerShell Module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-7.0.0)
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+- [Azure Active Directory Module](https://www.powershellgallery.com/packages/AzureAD/2.0.2.140)
+- [Microburst](https://github.com/NetSPI/MicroBurst)
+- [ROADTools](https://github.com/dirkjanm/ROADtools)
+- [MSOLSpray](https://github.com/dafthack/MSOLSpray)
+- [o365Spray](https://github.com/0xZDH/o365spray)
+- [o365Creeper](https://github.com/LMGsec/o365creeper)
+- [PowerZure](https://github.com/hausec/PowerZure)
