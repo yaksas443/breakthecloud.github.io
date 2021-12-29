@@ -4,10 +4,8 @@ title: Notes - Azure
 nav_order: 2
 description: Notes from my research in cloud security  
 
-permalink: /notes
+permalink: /notes-azure
 ---
-# Azure
-
 ## Targets
 - Azure Files support the use of only one account for accessing the SMB share, the storage account. The password for the share is the account's primary key.
 - VM and Azure App credentials are often stored in Deployment Templates. Checking deployment history may reveal some interesting information.
