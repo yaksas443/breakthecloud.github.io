@@ -36,8 +36,10 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 ## Tools
 
 ### Azure
+
 #### Information Gathering
 - [o365Creeper](https://github.com/LMGsec/o365creeper)
+
 #### Enumeration and Exploitation
 - [Azure PowerShell Module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-7.0.0)
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
@@ -45,6 +47,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Microburst](https://github.com/NetSPI/MicroBurst)
 - [ROADTools](https://github.com/dirkjanm/ROADtools)
 - [PowerZure](https://github.com/hausec/PowerZure)
+
 #### Credential Attacks
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray)
 - [o365Spray](https://github.com/0xZDH/o365spray)
