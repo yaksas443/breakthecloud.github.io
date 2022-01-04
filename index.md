@@ -51,6 +51,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
 - [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
 - [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/) - Talks about Azure Service principals privilege escalation techniques and defenses.
+- [Lateral Movement with Managed Identities of Azure Virtual Machines](https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/) - Azure Managed Identities deep-dive and lateral movement to Key Vaults, Storage accounts and Azure VMs
 
 ## Tools
 
