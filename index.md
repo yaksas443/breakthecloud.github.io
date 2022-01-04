@@ -50,6 +50,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Exploiting PHS
 - [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
 - [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
+- [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/) - Talks about Azure Service principals privilege escalation techinques and defenses.
 
 ## Tools
 
