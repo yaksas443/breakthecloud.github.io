@@ -52,7 +52,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
 - [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/) - Talks about Azure Service principals privilege escalation techniques and defenses.
 - [Lateral Movement with Managed Identities of Azure Virtual Machines](https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/) - Azure Managed Identities deep-dive and lateral movement to Key Vaults, Storage accounts and Azure VMs
-- [https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/) - Threat hunting in Azure and Microsoft 365
+- [What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/) - Threat hunting in Azure and Microsoft 365
 
 ## Blogs
 
