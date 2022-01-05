@@ -25,3 +25,6 @@ permalink: /notes-azure
 
 ## Persistence
 - Azure Automation can help in establishing long term (long-haul) persistence in the target Azure environment. It can also be used to create (short-haul) persistence channels.
+
+## Exfiltration
+- Azure Storage accounts can be used to exfiltrate data from the target organization.
