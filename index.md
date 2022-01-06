@@ -47,6 +47,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 ## Articles
 
 ### Azure
+- [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a) - A quick overview of Azure and introduction to PowerZure
 - [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Exploiting PHS
 - [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
 - [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
@@ -55,6 +56,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/) - Threat hunting in Azure and Microsoft 365
 - [Exfiltrating data by transfering it to the cloud with Azcopy](https://m365internals.com/2021/06/11/exfiltrating-data-by-transfering-it-to-the-cloud-with-azcopy/) - Using Azure Storage accounts for data exfiltration
 - [Everything about Service Principals, Applications, and API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/) - As the title says.
+
 
 ## Blogs
 
