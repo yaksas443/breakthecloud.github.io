@@ -56,6 +56,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/) - Threat hunting in Azure and Microsoft 365
 - [Exfiltrating data by transfering it to the cloud with Azcopy](https://m365internals.com/2021/06/11/exfiltrating-data-by-transfering-it-to-the-cloud-with-azcopy/) - Using Azure Storage accounts for data exfiltration
 - [Everything about Service Principals, Applications, and API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/) - As the title says.
+- [Malicious Azure AD Application Registrations](https://www.lares.com/blog/malicious-azure-ad-application-registrations/) - Using Azure Apps to grab OAuth token via phishing
 
 
 ## Blogs
