@@ -57,7 +57,8 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Exfiltrating data by transfering it to the cloud with Azcopy](https://m365internals.com/2021/06/11/exfiltrating-data-by-transfering-it-to-the-cloud-with-azcopy/) - Using Azure Storage accounts for data exfiltration
 - [Everything about Service Principals, Applications, and API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/) - As the title says.
 - [Malicious Azure AD Application Registrations](https://www.lares.com/blog/malicious-azure-ad-application-registrations/) - Using Azure Apps to grab OAuth token via phishing
-- [Azure SAS Tokens for Web Application Penetration Testers](https://www.netspi.com/blog/technical/web-application-penetration-testing/azure-sas-tokens/) - Describes the anatomy of a Shared Access Signature (SAS) token and ways to exploit SAS tokens with weak permissions. 
+- [Azure SAS Tokens for Web Application Penetration Testers](https://www.netspi.com/blog/technical/web-application-penetration-testing/azure-sas-tokens/) - Describes the anatomy of a Shared Access Signature (SAS) token and ways to exploit SAS tokens with weak permissions.
+- [New Azure Active Directory password brute-forcing flaw has no fix](https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/) - Describes exploiting Azure AD feature (autologon) to launch an undetected brute-force attack.
 
 
 ## Blogs
