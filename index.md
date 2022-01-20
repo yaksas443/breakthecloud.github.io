@@ -59,6 +59,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 - [Malicious Azure AD Application Registrations](https://www.lares.com/blog/malicious-azure-ad-application-registrations/) - Using Azure Apps to grab OAuth token via phishing
 - [Azure SAS Tokens for Web Application Penetration Testers](https://www.netspi.com/blog/technical/web-application-penetration-testing/azure-sas-tokens/) - Describes the anatomy of a Shared Access Signature (SAS) token and ways to exploit SAS tokens with weak permissions.
 - [New Azure Active Directory password brute-forcing flaw has no fix](https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/) - Describes exploiting Azure AD feature (autologon) to launch an undetected brute-force attack.
+- [Illogical Apps – Exploring and Exploiting Azure Logic Apps]https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/ - Exploiting Logic Apps and API Connections
 
 
 ## Blogs
