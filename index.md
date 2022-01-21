@@ -47,19 +47,22 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 ## Articles
 
 ### Azure
-- [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a) - A quick overview of Azure and introduction to PowerZure
-- [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Exploiting PHS
-- [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Exploiting PHS and PTA
-- [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597) - Exploiting Azure P2P Certificates
-- [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/) - Talks about Azure Service principals privilege escalation techniques and defenses.
-- [Lateral Movement with Managed Identities of Azure Virtual Machines](https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/) - Azure Managed Identities deep-dive and lateral movement to Key Vaults, Storage accounts and Azure VMs
-- [What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/) - Threat hunting in Azure and Microsoft 365
-- [Exfiltrating data by transfering it to the cloud with Azcopy](https://m365internals.com/2021/06/11/exfiltrating-data-by-transfering-it-to-the-cloud-with-azcopy/) - Using Azure Storage accounts for data exfiltration
-- [Everything about Service Principals, Applications, and API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/) - As the title says.
-- [Malicious Azure AD Application Registrations](https://www.lares.com/blog/malicious-azure-ad-application-registrations/) - Using Azure Apps to grab OAuth token via phishing
-- [Azure SAS Tokens for Web Application Penetration Testers](https://www.netspi.com/blog/technical/web-application-penetration-testing/azure-sas-tokens/) - Describes the anatomy of a Shared Access Signature (SAS) token and ways to exploit SAS tokens with weak permissions.
-- [New Azure Active Directory password brute-forcing flaw has no fix](https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/) - Describes exploiting Azure AD feature (autologon) to launch an undetected brute-force attack.
-- [Illogical Apps – Exploring and Exploiting Azure Logic Apps](https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/) - Exploiting Logic Apps and API Connections
+
+| Title         | Short Description |
+| :------------ | :------ |
+| [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a)     | A quick overview of Azure and introduction to PowerZure  |
+| [Azure AD introduction for red teamers](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)     | Exploiting PHS  |
+| [Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)     | Exploiting PHS and PTA  |
+| [Azure AD Pass The Certificate](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597)     | Exploiting Azure P2P Certificates  |
+| [Detecting privilege escalation with Azure AD service principals in Microsoft Sentinel](https://learnsentinel.blog/2022/01/04/azuread-privesc-sentinel/)     | Talks about Azure Service principals privilege escalation techniques and defenses.  |
+| [Lateral Movement with Managed Identities of Azure Virtual Machines](https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/)     | Azure Managed Identities deep-dive and lateral movement to Key Vaults, Storage accounts and Azure VMs  |
+| [What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)     | Threat hunting in Azure and Microsoft 365  |
+| [Exfiltrating data by transfering it to the cloud with Azcopy](https://m365internals.com/2021/06/11/exfiltrating-data-by-transfering-it-to-the-cloud-with-azcopy/)     | Using Azure Storage accounts for data exfiltration  |
+| [Everything about Service Principals, Applications, and API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)     | As the title says.  |
+| [Malicious Azure AD Application Registrations](https://www.lares.com/blog/malicious-azure-ad-application-registrations/)     | Using Azure Apps to grab OAuth token via phishing  |
+| [Azure SAS Tokens for Web Application Penetration Testers](https://www.netspi.com/blog/technical/web-application-penetration-testing/azure-sas-tokens/)     | Describes the anatomy of a Shared Access Signature (SAS) token and ways to exploit SAS tokens with weak permissions.  |
+| [New Azure Active Directory password brute-forcing flaw has no fix](https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/)     | Describes exploiting Azure AD feature (autologon) to launch an undetected brute-force attack.  |
+| [Illogical Apps – Exploring and Exploiting Azure Logic Apps](https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/)     | Exploiting Logic Apps and API Connections.  |
 
 
 ## Blogs
