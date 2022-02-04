@@ -65,6 +65,12 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 | [Illogical Apps – Exploring and Exploiting Azure Logic Apps](https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/)     | Exploiting Logic Apps and API Connections.  |
 
 
+## Talks and Videos
+
+### Azure
+
+[Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD)](https://www.youtube.com/watch?v=SG2ibjuzRJM)
+
 ## Blogs
 
 ### Azure
