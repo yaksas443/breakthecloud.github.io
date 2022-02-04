@@ -70,7 +70,9 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 
 ### Azure
 
-[Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD)](https://www.youtube.com/watch?v=SG2ibjuzRJM)
+- [Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD)](https://www.youtube.com/watch?v=SG2ibjuzRJM)
+- [ I'm in your cloud, reading everyone's emails - hacking Azure AD via Active Directory](https://www.youtube.com/watch?v=JEIR5oGCwdg) - 
+  - Summary: Talks about PHS, extracting ADConnect credentials (mcrypt.dll, registry, DPAPI, discovering crpto parameters, decrypt using these and extract clear text password). Using ADConnectionDump (custom tool) to extract ADConnect credentials remotely. Run DC sync with the credentials of AD sync account. Hunting Azure AD admins using AAD Powershell and MSOnline modules. Syncing AAD account to on-premise account using SMTP Matching. Using this access to assign privileges to read mailbox (fixed my MS does not work anymore). Privielge Escalation via Azure Application Admin Role and application permissions. Abusing Seamless SSO to compromise Azure AD if Active Directory is already compromised. Configuring constrained delegation on Azure SSO account to enable attacker controlled account to impersonate any AzureAD user using Kerberos (if MFA is not enabled).
 
 ## Blogs
 
