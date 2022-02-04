@@ -33,6 +33,7 @@ Here you will find resources (books, articles, tools, commands, attacks, defense
 
 - [Penetration Testing Azure for Ethical Hackers](https://www.packtpub.com/product/penetration-testing-azure-for-ethical-hackers/9781839212932) - [Book Review](https://yaksas.in/ycscblog/book-review-penetration-testing-azure-for-ethical-hackers/)
 - [Pentesting Azure Applications by Matt Burrough](https://nostarch.com/azure) - [Book Review](https://yaksas.in/ycscblog/book-review-pentesting-azure-applications/)
+- [Microsoft Azure Security Technologies Certification and Beyond](https://www.packtpub.com/product/microsoft-azure-security-technologies-certification-and-beyond/9781800562653)
 
 ### AWS Security
 
